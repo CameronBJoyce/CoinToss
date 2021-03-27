@@ -1,0 +1,26 @@
+* Steps to set up ETH project
+*1  npx buidler
+
+*2 mkdir contracts test scripts
+
+*3 Add to package.json
+"scripts": {
+  "tsc": "tsc"
+ },
+
+*4 npx tsc --init
+{
+     "compilerOptions": {
+       "target": "es5",
+       "module": "commonjs",
+       "strict": true,
+       "esModuleInterop": true,
+       "outDir": "dist"
+     },
+     "include": ["./scripts", "./test"],
+     "files": [
+       "./buidler.config.ts"
+     ]
+}
+
+*5 mv buidler.config.js buidler.config.ts
