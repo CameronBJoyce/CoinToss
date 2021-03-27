@@ -1,5 +1,8 @@
 # CoinToss “TOSS” 
 ERC-20 Token built in Solidity
+
+
+<img src="https://user-images.githubusercontent.com/61301130/112721546-c68bd680-8eda-11eb-9474-3cc10b32571e.gif" width="250" height="250"/>
 ![01coin](https://user-images.githubusercontent.com/61301130/112721546-c68bd680-8eda-11eb-9474-3cc10b32571e.gif)
 
 
