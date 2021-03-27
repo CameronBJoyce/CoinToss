@@ -10,11 +10,11 @@ ERC-20 Token built in Solidity
 5. If head coins land **on heads twice in a row**, this coin can be used to** flip 2 additional tails** to heads as well. 
 6. If tail coins land on tails twice in a row, the coin is **burned** from the network.
 
-**Technical Specifications: **
+**Technical Specifications:**
 
-**TOSS **is an ERC-20 Token built using the Solidity language. 
+**TOSS** is an ERC-20 Token built using the Solidity language. 
 
-TOSS token functionality mirrors other popular tokens, but has an **_active update _**feature that automatically executes real-time, smart contracts to provide the core functionality of TOSS.
+TOSS token functionality mirrors other popular tokens, but has an **_active update_** feature that automatically executes real-time, smart contracts to provide the core functionality of TOSS.
 
 Key differences between TOSS and other tokens is the restriction of  movement and the active update feature.. If the coin can only be moved once a day, then this promotes the active maintenance of your portfolio and the development of trading bots to manage your portfolio across a longer period of time.
 
