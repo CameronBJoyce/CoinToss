@@ -23,7 +23,7 @@ The protocol functionality of this coin focuses on ensuring:
     *   Each user begins with 250 coins and then can trade or maintain their portfolio how they see fit. Theoretical buy-in cost would be $5 and then you get 250 coins and access to the trading network.
 *   **Assignment of the initial quantity to the company's address and to the ICO members.**
     *   The owner will only receive 5% of initial tokens, the rest will be held in a central trust where owners who pay the entry fee can earn more tokens by landing on heads.
-*   **Sending assets to investors, recording the balance. **
+*   **Sending assets to investors, recording the balance.**
     *   TOSS users pay to purchase tokens from other users. The central trust is only used for distributing earnings, not as a central marketplace for purchases.
 *   **Distribution of coins among users for transactions, verification of their movement.**
     *   Verification of movement will happen as 1 of two ways. Users can opt to pay a small slice of the earnings from landing on heads, or they can slightly increase (~2%) the probability of them landing on tails.
@@ -35,15 +35,15 @@ The protocol functionality of this coin focuses on ensuring:
 **Smart contracts have three classic functions:**
 1. Conducts transactions, transfers tokens.** 2**. Confirms cost.  **3.** Tracks account balance.
 
-**However, TOSS Smart Contracts have several functions built on top of this for each token: **
+**However, TOSS Smart Contracts have several functions built on top of this for each token:**
 1. Tracks _Transfer_Time, Resting_Time, STATE (Heads or Tails),  PREVIOUS STATE_, _Daily # of transfers _(Heads = 10 limit, Tails = 1 limit).
 2. Executes different operations on tokens/transactions depending on the different combination of information above.
 
-**Composition: **
+**Composition:**
 
-**Total # of Token**s: 250,000,000 | **ICO cut**: 12.5 Million | **Trust**: 237,500,000 | **Buy In:** 250 Tokens
+**Total # of Tokens**: 250,000,000 | **ICO cut**: 12.5 Million | **Trust**: 237,500,000 | **Buy In:** 250 Tokens
 
-**Example: **
+**Example:**
 
 HEAD → HEAD = 1 additional, flipped coin inserted in your account from the central trust 
 
